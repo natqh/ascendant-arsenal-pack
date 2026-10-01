@@ -7,7 +7,7 @@ effect models, the drawn ability titles, the screen flashes and the HUD sprites.
 The server sends it to you when you join, so there's nothing to install by hand.
 
 - Direct link: https://raw.githubusercontent.com/natqh/ascendant-arsenal-pack/main/ArsenalPack.zip
-- SHA-1: `6b5654bd0989a4ca6da43de6936426eec63f26ba`
+- SHA-1: `18c424738e4d96325b506aafba65a0b91c09c7ed`
 
 ## Credits and licenses
 
